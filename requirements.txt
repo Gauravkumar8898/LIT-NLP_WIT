@@ -2,3 +2,4 @@ attrs~=22.1.0
 numpy~=1.24.1
 tensorflow~=2.10.0
 transformers~=4.27.1
+lit-nlp==1.1
