@@ -1,0 +1,11 @@
+jupyterlab==4.1.4
+notebook==7.1.1
+numpy==1.26.4
+pandas==2.2.1
+tensor==0.3.6
+tensorboard==2.15.2
+tensorboard-data-server==0.7.2
+tensorflow==2.15.0.post1
+widgetsnbextension==4.0.10
+witwidget==1.8.1
+
